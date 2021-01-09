@@ -1,1 +1,1 @@
-Laravel ile blog sitesi, kaynak kodu.
+Laravel ile blog sitesi projesinin kaynak kodları.
